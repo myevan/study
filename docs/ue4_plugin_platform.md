@@ -20,7 +20,7 @@
 
 ## 관련 코드
 
-https://github.com/EpicGames/UnrealEngine/blob/4.22.2-release/Engine/Source/Programs/UnrealBuildTool/System/PluginReferenceDescriptor.cs#L189-L204
+<https://github.com/EpicGames/UnrealEngine/blob/4.22.2-release/Engine/Source/Programs/UnrealBuildTool/System/PluginReferenceDescriptor.cs#L189-L204>
 
 ```cs
 public class PluginReferenceDescriptor
